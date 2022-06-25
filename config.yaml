@@ -2,7 +2,7 @@ baseURL: 'https://hamfinger.quibtech.com'
 title: Ham Finger | Inspired by AI. Designed on iPad.
 theme: vex-hugo-master
 summarylength: '20'
-googleAnalytics: ''
+googleAnalytics: 'G-DWTEC6G5GW'
 disableLanguages: []
 markup:
   goldmark:
