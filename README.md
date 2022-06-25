@@ -8,4 +8,4 @@ Official site for Ham Finger.
 
 # ✍️ Attributions
 
-[Image at top](/overture-dark.png#gh-dark-mode-only) [Image at top](/overture-light.png#gh-light-mode-only) from [Socialify](https://socialify.git.ci/)
+[Image at top](/hamfinger.png) [Image at top](/overture-light.png#gh-light-mode-only) from [Socialify](https://socialify.git.ci/)
