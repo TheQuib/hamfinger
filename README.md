@@ -1,2 +1,0 @@
-# hamfinger
-Official Hamfinger site
