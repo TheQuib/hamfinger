@@ -1,0 +1,68 @@
+baseURL: 'https://hamfinger.quibtech.com'
+title: Ham Finger | Inspired by AI. Designed on iPad.
+theme: vex-hugo-master
+summarylength: '20'
+googleAnalytics: ''
+disableLanguages: []
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+params:
+  plugins:
+    css:
+      - link: >-
+          https://fonts.googleapis.com/css?family=Droid+Serif:400|Josefin+Sans:300,400,600,700
+      - link: plugins/bootstrap/bootstrap.min.css
+      - link: plugins/themefisher-font/themefisher-font.min.css
+      - link: plugins/slick/slick.min.css
+      - link: 'https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.css'
+    js:
+      - link: plugins/jquery/jquery.js
+      - link: plugins/bootstrap/bootstrap.min.js
+      - link: plugins/slick/slick.min.js
+      - link: 'https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.js'
+  #logo: images/hamFingerWide.png
+  logo_width: 100px
+  description: Inspired by AI. Designed on iPad.
+  author: Quinn Henry
+  currency: $
+  contact_form_action: '#'
+  preloader:
+    enable: true
+    preloader: ''
+  snipcart:
+    enable: false
+    snipcart_api: ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4
+#  subscription:
+#    mailchimp_form_action: >-
+#      https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074
+#    mailchimp_form_name: b_463ee871f45d2d93748e77cad_a0a2c6d074
+
+menu:
+  main:
+    - name: Home
+      url: /
+      weight: 1
+    - name: Finally!
+      url: /live-site
+      weight: 2
+  footer:
+    - name: Home
+      url: /
+      weight: 1
+    - name: Terms & Conditions
+      url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+      weight: 2
+    - name: Privacy Policy
+      url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+      weight: 3
+Languages:
+  en:
+    languageName: En
+    languageCode: en-us
+    contentDir: content/english
+    weight: 1
+    copyright: >-
+      Built by [Quinn Henry](https://quibtech.com) with the [Hugo Static Site Generator](https://gohugo.io)

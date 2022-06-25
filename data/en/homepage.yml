@@ -1,0 +1,79 @@
+############################# banner ############################
+banner:
+  enable: true
+  title: "Ham Finger"
+  content: "Inspired by AI. Designed on iPad."
+  image: "images/favicon.png"
+  button:
+    enable: true
+    label: "View Products"
+    link: "https://www.redbubble.com/shop/ap/75368837"
+
+############################# Feature ############################
+features:
+  enable: true
+  #title: ""
+  image: "images/hamfinger.png"
+
+  # feature at the left of the image
+  left_side:
+    # feature item loop
+    - title: "Carefully designed."
+      icon: "tf-ion-ios-bell-outline"
+      content: "Done in just one night, and undergoing multiple iterations, we have the final Ham Finger design, featuring a cartoon, minimal style."
+
+  # feature at the right of the image
+  right_side:
+    # feature item loop
+    - title: "The Right Reasons."
+      icon: "tf-ion-ios-alarm-outline"
+      content: "Ham finger wasn’t made to make money. It was made for people, by people. Not some computer generating mashups of every day items… No, this was from someone like you."
+
+############################# promo ############################
+promo:
+  enable: true
+  image: "images/iPad.png"
+  title: "Designed by a semi-professional."
+  content:
+    With an iPad, Apple Pencil, and a hand. This we present the best design from a single night of iterations.
+
+############################## Testimonial ##########################
+testimonial:
+  enable: true
+  title: "Our Team"
+  testimonial_item:
+    # testimonial item loop
+    - name: "Rachel Garrett"
+      designation: "Graphic Desinger"
+      image: "images/team/rachelGarrett.jpg"
+      content: "The only person of the team that has an iPad, Rachel is the hands behind the design of the Ham Finger, and she’s not afraid to get some more designs out there."
+
+    # testimonial item loop
+    - name: "Quinn Henry"
+      designation: "Webmaster / Facebook Mom"
+      image: "images/team/quinnHenry.jpg"
+      content: "With no education, background, or motivation, Quinn runs what you see in front of you. Even wrote this excerpt in 20 seconds. Kinda crazy imo."
+
+    # testimonial item loop
+    - name: "Tate Naugle"
+      designation: "Moral Support"
+      image: "images/team/tateNaugle.jpg"
+      content: "If there’s anyone who can give direction and knows his way around the color spectrum, it be this guy. Don’t cross him when it comes to making things look good."
+
+    # testimonial item loop
+    - name: "Victoria Henry"
+      designation: "Secondary Moral Support"
+      image: "images/team/victoriaHenry.jpg"
+      content: "There’s not much to say about this one. Victoria just agreed that Ham Finger was cool. She agrees that Cards Against Humanity is cool too."
+
+    # testimonial item loop
+    - name: "Lucy the Dog"
+      designation: "The Cute One"
+      image: "images/team/lucy.jpg"
+      content: "Lucy likes peanut butter."
+
+    # testimonial item loop
+    - name: "Emory the Pup"
+      designation: "The Cool One"
+      image: "images/team/emory.jpg"
+      content: "Party animal and dog food consumer."
